@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/AccesibilitySandbox" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Animations" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BetterRest" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bookworm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Bucketlist" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Challenge1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CoreDataProject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CoreDataTemplate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CupcakeCorner" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Drawing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Flashzilla" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FriendFaceChallenge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GuessTheFlag" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HotProspects" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Instafilter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LayoutAndGeometry" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Moonshot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SnowSeeker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ViewsAndModifiers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WeSplit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WordScramble" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/iExpense" vcs="Git" />
+  </component>
+</project>
